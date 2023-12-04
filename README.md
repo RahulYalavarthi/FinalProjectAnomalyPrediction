@@ -1,6 +1,6 @@
 # FinalProject_AnomalyPrediction
 
-This repository contains the source code for implementing anommaly prediction for Sea Surface Temperature (SST) data using models like ARIMA, SARIMA and LSTM.
+This repository contains the source code for implementing Anomaly Prediction in Sea Surface Temperature (SST) data using models like ARIMA, SARIMA and LSTM.
 
 The datasets utilized are of the Gujarat coastal region (available in this repo) and the Korean Peninsula.
 
